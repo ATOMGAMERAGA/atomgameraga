@@ -1,21 +1,21 @@
 <h1 align="center">Merhaba 👋, Ben Atom Gamer A.G.A</h1>
-<h3 align="center">Full-Stack Developer & Security Researcher</h3>
+<h3 align="center">Full-Stack Developer & Siber Güvenlik Uzmanı</h3>
 
 ---
 
 <p align="left">
-Merhaba, ben Atom Gamer A.G.A! Kod adı Atomland olarak da bilinirim. Hem modern ve güvenli web uygulamaları geliştiren bir Full-Stack Developer, hem de sistemlerin zayıf noktalarını bulmaya odaklanmış bir Güvenlik Araştırmacısıyım. Siber güvenliğin derinliklerini keşfetmek, özel araçlar geliştirmek ve sürekli yeni saldırı/savunma teknikleri öğrenmek benim tutkum.
+Selam! Ben Atom Gamer A.G.A, ya da çoğu yerde bilinen adımla Atom. Hem modern ve güvenli web uygulamaları geliştirmeye bayılan bir Full-Stack Developer'ım, hem de sistemlerin derinliklerindeki potansiyel sorunları bulup çıkarmaya meraklı bir Siber Güvenlik Uzmanıyım. Siber güvenliğin uçsuz bucaksız dünyasını keşfetmek, kendi özel araçlarımı geliştirmek ve sürekli olarak en yeni saldırı ve savunma tekniklerini öğrenmek benim için adeta bir tutku.
 
-İster karmaşık altyapıları etik olarak test etmek olsun, ister modern siber tehditlere karşı savunma stratejileri geliştirmek olsun, her zorlu senaryo beni hedefime bir adım daha yaklaştırıyor. Açık kaynaklı projelerin gücüne ve bilgi paylaşımına inanıyorum.
+Karmaşık sistemleri etik kurallar çerçevesinde test etmek veya günümüzün karmaşık siber tehditlerine karşı akılcı savunma yöntemleri oluşturmak... İşte bunlar beni her zaman motive eden şeyler. Açık kaynak projelerinin gücüne ve bilgiyi paylaşmanın değerine yürekten inanıyorum.
 </p>
 
-* 🚀 **Şu Anki Odağım:** Web uygulama güvenliği ve otomatize sızma testi araçları üzerine uzmanlığımı artırmak.
-* 🎯 **Vizyonum:** Rakiplerden bir adım önde olarak daha güvenli bir dijital dünya yaratmaya katkıda bulunmak.
-* 🌍 **Konum:** Türkiye/Isparta
-* ✉️ **İletişim:** **atomgameraga@atomland.xyz**
-* 🧠 **Şu An Öğrendiklerim:** Go (Golang) ve Altyapı Otomasyonu (Infrastructure as Code)
-* 🤝 **İş Birliğine Açığım:** Açık kaynaklı güvenlik araçları, web uygulama sızma testleri ve otomasyon projeleri. Birlikte harika işler yapabiliriz!
-* ⚡ **Bir Gerçek:** Bence en iyi savunma, en yaratıcı saldırıyı anlayabilmekten geçer.
+* 🚀 **Şu Anki Hedefim:** Web uygulamalarının güvenliği konusunda derinleşmek ve sızma testi süreçlerini otomatikleştirecek araçlar geliştirmek.
+* 🎯 **En Büyük İsteğim:** Sürekli öğrenerek ve gelişerek daha güvenli bir dijital ekosisteme katkıda bulunmak, kötü niyetli aktörlerin her zaman bir adım önünde olmak.
+* 🌍 **Yaşadığım Yer:** Türkiye'nin güzel şehri Isparta'da yaşıyorum.
+* ✉️ **Bana Ulaşın:** Her türlü konuda benimle iletişime geçmekten çekinmeyin: **atomgameraga@atomland.xyz**
+* 🧠 **Merak Ettiklerim ve Öğrendiklerim:** Şu sıralar Go (Golang) diline ve altyapıyı kod ile yönetme (Infrastructure as Code) prensiplerine yoğunlaşmış durumdayım.
+* 🤝 **Birlikte Çalışmaya Açığım:** Özellikle açık kaynaklı güvenlik araçları, web uygulamalarına yönelik sızma testi projeleri ve otomasyon konularında iş birliği yapmaktan mutluluk duyarım. Gelin, birlikte harika şeyler ortaya çıkaralım!
+* ⚡ **Küçük Bir Not:** En etkili savunmanın, en yaratıcı saldırganın düşünce yapısını anlamaktan geçtiğine inanıyorum.
 
 <br>
 
@@ -25,7 +25,7 @@ Merhaba, ben Atom Gamer A.G.A! Kod adı Atomland olarak da bilinirim. Hem modern
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,python,bash,golang,docker,kubernetes,aws,gcp,javascript,react,nodejs,mysql,mongodb,powershell,nmap,metasploit,wireshark,burpsuite" />
+    <img src="https://skillicons.dev/icons?i=arch,azure,bash,c,clojure,cmake,coq,coffeescript,cpp,csharp,css,dart,debian,digitalocean,discord,django,docker,electron,elixir,erlang,express,fastapi,firebase,flask,gcp,git,go,graphql,haskell,heroku,html,java,javascript,jest,jquery,julia,jupyter,kotlin,kubernetes,laravel,linux,lua,markdown,materialui,mongodb,mysql,nestjs,nextjs,nginx,nim,nmap,nodejs,nuxtjs,objectivec,oracle,perl,php,postgresql,postman,powershell,prisma,python,qt,r,rails,react,redis,redux,robotics,ruby,rust,sass,scala,solidity,spring,svelte,swift,symfony,tensorflow,terraform,threejs,typescript,unity,unrealengine,vala,vuejs,vuetify,webpack,windows,wordpress,xamarin,yarn,zig&perline=15" />
   </a>
 </p>
 
