@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Atom Gamer A.G.A</h1>
-<h3 align="center">Full-Stack Developer & Siber Güvenlik Uzmanı</h3>
+<h3 align="center">Full-Stack Developer & Cybersecurity Specialist</h3>
 
 ---
 
